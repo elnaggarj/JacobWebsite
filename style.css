@@ -254,7 +254,34 @@ text-decoration:  none;
 }
 
 
+#GW2-logo{
+margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+   /* min-width: 20vw;
+    min-height: 20vw;*/
+    width: 10%;
+    height: 10%;
 
+}
+
+#petfinder{
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    min-width: 20vw;
+    min-height: 20vw;
+    width: 50%;
+    height: 50%;
+}
+
+#BSAWlogo{
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 50%;
+    height: 50%;
+}
 
 
 @media only screen and (max-width: 600px){
