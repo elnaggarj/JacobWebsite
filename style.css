@@ -96,8 +96,8 @@ hr{
 }
 
 #pic1{
-	width: 80%;
-	height: 80%;
+	width: 90%;
+	height: 90%;
 	padding: 20px;
 	margin-top: 20px;
 }
@@ -147,6 +147,14 @@ hr{
 	margin-right: 120px;
 	margin-top: 100px;
 	margin-bottom: 50px;
+}
+
+#Resume_jpg{
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 25px;
+	height: 90%;
+	width: 70%;
 }
 
 
@@ -209,7 +217,7 @@ a:#email{
 #anna{
 	font-family: 'Open Sans', sans-serif, 'bold';
 	font-style: bold;
-	font-size: 10px;
+	font-size: 30px;
 	padding: 50px;
 	position: center;
 	padding-left: 500px;
@@ -281,6 +289,30 @@ margin-left: auto;
     margin-top: 60px;
     width: 50%;
     height: 50%;
+} 
+
+#poster1{
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 85%;
+    height: 85%;
+}
+
+#poster2{
+		margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 60%;
+    height: 40%;
+}
+
+#poster3{
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 80%;
+    height: 80%;
 }
 
 
