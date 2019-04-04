@@ -1,3 +1,0 @@
-geneweaver 
-database 
-rfid
