@@ -117,9 +117,9 @@ hr{
 	float: right;
 	position: relative;
 	margin-top: 20px;
-	text-align: right;
+	text-align: left;
 	padding: 20px;
-	width: 80%;
+	width: 100%;
 
 	}
 
@@ -227,7 +227,7 @@ a:#email{
 #anna{
 	font-family: 'Open Sans', sans-serif, 'bold';
 	font-style: bold;
-	font-size: 15px;
+	font-size: 50px;
 	padding: 50px;
 	position: center;
 	padding-left: 500px;
